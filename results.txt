@@ -1,0 +1,7 @@
+imports: 120
+columns: 960
+greedy_accuracy: 0.769
+global_accuracy: 0.956
+review_coverage: 0.812
+review_accuracy: 1.000
+sent_to_review: 180
